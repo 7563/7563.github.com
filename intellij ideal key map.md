@@ -43,3 +43,9 @@ Ctrl + Home : *go to file top*
 Ctrl + End : *go to file end*
 Shift + ESC : *hide slide*
 Ctrl + Shift + J : *join selected to one line*
+F8 :*go to next method in debug*
+F9 :*break the debug pointer*
+Shift + F9 :*break all point  and can't do debug again*
+Alt + F10 :*show excution point*
+Alt + F8 :*evaluate ecpression*
+
